@@ -1,0 +1,23 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://cutt.ly/bmf1tIL");
+    background-position: center center;
+    text-align: center;
+}
+h1 {
+    color:red;
+    text-align: center;
+}
+h1:hover{
+    font-size:30px;
+    color: blue;
+}
+ul{
+    list-style: square;
+}
+#fb:hover{
+    font-size:15px;
+}
+#copyright{
+    color: blue;
+}

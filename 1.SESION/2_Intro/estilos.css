@@ -1,0 +1,16 @@
+header {
+	width: 100%; 
+	overflow:hidden; 
+	margin-bottom:20px;
+}
+.principal{
+    width: 90%;
+    margin: auto;
+}
+header nav {
+    float: right;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
